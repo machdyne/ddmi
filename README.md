@@ -2,7 +2,7 @@
 
 ## Overview
 
-DDMI (Differential Data Multiple Interface) is a work-in-progress (non-)specification for differential data transfer over an HDMI&reg; connector.
+DDMI (Differential Data Multiple Interface) is a work-in-progress (non-)specification for differential data transfer over a 19-pin HDMI&reg; style connector.
 
 This repo contains the pinout for the DDMI connector and the [DDMI Pmod&trade; compatible module](https://machdyne.com/product/ddmi-pmod).
 
