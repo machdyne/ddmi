@@ -6,6 +6,8 @@ DDMI (Differential Data Multiple Interface) is a work-in-progress (non-)specific
 
 This repo contains the pinout for the [DDMI Pmod&trade; compatible module](https://machdyne.com/product/ddmi-pmod).
 
+![DDMI Pmod](https://github.com/machdyne/ddmi/blob/5b369be5159b5f61a21ae51bad638b94bcf4372a/ddmi.png)
+
 This project was inspired by [DVI-PMOD](https://github.com/Wren6991/DVI-PMOD), [SmolDVI](https://github.com/Wren6991/SmolDVI) and the [ULX3S](https://github.com/emard/ulx3s) GPDI connector. 
 
 ## Devices
