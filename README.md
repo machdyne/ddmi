@@ -15,19 +15,43 @@ The following is a list of devices with DDMI ports:
   * [Schoko](https://machdyne.com/product/schoko-computer)
   * [Bonbon](https://machdyne.com/product/bonbon-computer)
 
-## DDMI PMOD Pinout
+## DDMI Connector Pinout
+| Pin | Signal |
+| --- | ------ |
+| 1 | D2\_P |
+| 2 | GND |
+| 3 | D2\_N |
+| 4 | D1\_P |
+| 5 | GND |
+| 6 | D1\_N |
+| 7 | D0\_P |
+| 8 | GND |
+| 9 | D0\_N |
+| 10 | CK\_P |
+| 11 | GND |
+| 12 | CK\_N |
+| 13 | NC |
+| 14 | NC |
+| 15 | NC |
+| 16 | NC |
+| 17 | GND |
+| 18 | PWR5V0 |
+| 19 | NC |
+| SHIELD | GND |
+
+## DDMI PMOD Pinout (V0/V1)
 
 | Pin | Signal |
 | --- | ------ |
-| 1 | DVI\_D2\_N |
-| 2 | DVI\_D1\_N |
-| 3 | DVI\_D0\_N |
-| 4 | DVI\_CK\_N |
+| 1 | D2\_N |
+| 2 | D1\_N |
+| 3 | D0\_N |
+| 4 | CK\_N |
 | 5 | GND |
 | 6 | PWR3V3 |
-| 7 | DVI\_D2\_P |
-| 8 | DVI\_D1\_P |
-| 9 | DVI\_D0\_P |
-| 10 | DVI\_CK\_P |
+| 7 | D2\_P |
+| 8 | D1\_P |
+| 9 | D0\_P |
+| 10 | CK\_P |
 | 11 | GND |
 | 12 | PWR3V3 |
